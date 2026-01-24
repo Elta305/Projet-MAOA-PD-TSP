@@ -267,7 +267,7 @@ Min load: 0
 
 Le solveur supporte plusieurs fonctions de coût :
 
-### 1. Linéaire (défaut)
+### 1. Distance (défaut)
 Coût = somme des distances
 
 ### 2. Quadratique (heuristiques seulement)
