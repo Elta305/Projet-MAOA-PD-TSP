@@ -1,0 +1,31 @@
+{
+  "tour": [
+    0,
+    19,
+    5,
+    16,
+    2,
+    4,
+    13,
+    15,
+    6,
+    14,
+    18,
+    9,
+    10,
+    11,
+    3,
+    12,
+    8,
+    17,
+    1,
+    7
+  ],
+  "cost": 4865.735341375901,
+  "total_profit": 1104,
+  "objective": -3761.735341375901,
+  "feasible": true,
+  "algorithm": "GreedyInsertion",
+  "computation_time": 0.0002315,
+  "iterations": null
+}

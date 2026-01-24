@@ -1,0 +1,11 @@
+C:\Users\fredl\Documents\Cours\M2 AI2D\MAOA\Projet 2\pd-tsp-solver\target\release\deps\xmlparser-d1d41a893df6029a.d: C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xmlparser-0.13.6\src\lib.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xmlparser-0.13.6\src\error.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xmlparser-0.13.6\src\stream.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xmlparser-0.13.6\src\strspan.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xmlparser-0.13.6\src\xmlchar.rs
+
+C:\Users\fredl\Documents\Cours\M2 AI2D\MAOA\Projet 2\pd-tsp-solver\target\release\deps\libxmlparser-d1d41a893df6029a.rlib: C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xmlparser-0.13.6\src\lib.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xmlparser-0.13.6\src\error.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xmlparser-0.13.6\src\stream.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xmlparser-0.13.6\src\strspan.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xmlparser-0.13.6\src\xmlchar.rs
+
+C:\Users\fredl\Documents\Cours\M2 AI2D\MAOA\Projet 2\pd-tsp-solver\target\release\deps\libxmlparser-d1d41a893df6029a.rmeta: C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xmlparser-0.13.6\src\lib.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xmlparser-0.13.6\src\error.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xmlparser-0.13.6\src\stream.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xmlparser-0.13.6\src\strspan.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xmlparser-0.13.6\src\xmlchar.rs
+
+C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xmlparser-0.13.6\src\lib.rs:
+C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xmlparser-0.13.6\src\error.rs:
+C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xmlparser-0.13.6\src\stream.rs:
+C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xmlparser-0.13.6\src\strspan.rs:
+C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xmlparser-0.13.6\src\xmlchar.rs:

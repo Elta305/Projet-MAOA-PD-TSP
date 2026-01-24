@@ -1,0 +1,12 @@
+\ Model PDTSP_copy
+\ LP format - for model browsing. Use MPS format to capture full model detail.
+\ Signature: 0x833cd2eb38398f89
+Minimize
+ 
+Subject To
+ start_load_1: - 90 x_0_1 + q_1 >= 142
+Bounds
+ -infinity <= q_1 <= 45
+Binaries
+ x_0_1
+End

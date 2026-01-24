@@ -1,0 +1,14 @@
+﻿instance,algorithm,cost_function,cost,feasible,time,beta
+n200mosA.tsp,greedy,distance,16055.98,true,0.4225,0.0
+n200mosA.tsp,regret,distance,14805.03,true,0.1573,0.0
+n200mosA.tsp,vnd,distance,11937.94,true,2.0262,0.0
+n200mosA.tsp,ils,distance,11053.04,true,54.1224,0.0
+n200mosA.tsp,hybrid,distance,11218.99,true,48.1606,0.0
+n200mosB.tsp,greedy,distance,13574.98,true,0.3146,0.0
+n200mosB.tsp,regret,distance,17011.24,true,0.1313,0.0
+n200mosB.tsp,vnd,distance,12170.45,true,1.5843,0.0
+n200mosB.tsp,ils,distance,11340.70,true,30.0209,0.0
+n200mosB.tsp,hybrid,distance,11692.04,true,16.8505,0.0
+n200mosC.tsp,greedy,distance,12797.08,true,0.4860,0.0
+n200mosC.tsp,regret,distance,17494.26,true,0.2932,0.0
+n200mosC.tsp,vnd,distance,11559.82,true,1.6629,0.0

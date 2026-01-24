@@ -1,0 +1,12 @@
+C:\Users\fredl\Documents\Cours\M2 AI2D\MAOA\Projet 2\pd-tsp-solver\target\debug\deps\resvg-8a6e2f18dd2a28d7.d: C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resvg-0.30.0\src\lib.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resvg-0.30.0\src\clip.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resvg-0.30.0\src\filter.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resvg-0.30.0\src\image.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resvg-0.30.0\src\mask.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resvg-0.30.0\src\paint_server.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resvg-0.30.0\src\path.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resvg-0.30.0\src\render.rs
+
+C:\Users\fredl\Documents\Cours\M2 AI2D\MAOA\Projet 2\pd-tsp-solver\target\debug\deps\libresvg-8a6e2f18dd2a28d7.rmeta: C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resvg-0.30.0\src\lib.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resvg-0.30.0\src\clip.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resvg-0.30.0\src\filter.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resvg-0.30.0\src\image.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resvg-0.30.0\src\mask.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resvg-0.30.0\src\paint_server.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resvg-0.30.0\src\path.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resvg-0.30.0\src\render.rs
+
+C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resvg-0.30.0\src\lib.rs:
+C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resvg-0.30.0\src\clip.rs:
+C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resvg-0.30.0\src\filter.rs:
+C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resvg-0.30.0\src\image.rs:
+C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resvg-0.30.0\src\mask.rs:
+C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resvg-0.30.0\src\paint_server.rs:
+C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resvg-0.30.0\src\path.rs:
+C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\resvg-0.30.0\src\render.rs:

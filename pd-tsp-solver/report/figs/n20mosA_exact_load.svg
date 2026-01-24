@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300">
+<style>
+    .line { stroke: #3498db; stroke-width: 2; fill: none; }
+    .capacity { stroke: #e74c3c; stroke-width: 1; stroke-dasharray: 5,5; }
+    .axis { stroke: #2c3e50; stroke-width: 1; }
+    .label { font-family: Arial; font-size: 12px; fill: #2c3e50; }
+    .title { font-family: Arial; font-size: 14px; fill: #2c3e50; font-weight: bold; }
+</style>
+<rect width="100%" height="100%" fill="#ecf0f1"/>
+<text x="50" y="25" class="title">Load Profile - Capacity: 44</text>
+<line x1="50" y1="150" x2="750" y2="150" class="axis"/>
+<line x1="50" y1="50" x2="50" y2="250" class="axis"/>
+<line x1="50" y1="49.999999999999986" x2="750" y2="49.999999999999986" class="capacity"/>
+<line x1="50" y1="250" x2="750" y2="250" class="capacity"/>
+<text x="755" y="54.999999999999986" class="label">+44</text>
+<text x="755" y="255" class="label">-44</text>
+<path d="M 50.00 65.91 L 81.82 72.73 L 113.64 59.09 L 145.45 65.91 L 177.27 72.73 L 209.09 84.09 L 240.91 61.36 L 272.73 75.00 L 304.55 90.91 L 336.36 84.09 L 368.18 75.00 L 400.00 90.91 L 431.82 90.91 L 463.64 81.82 L 495.45 61.36 L 527.27 52.27 L 559.09 52.27 L 590.91 59.09 L 622.73 59.09 L 654.55 50.00 L 686.36 150.00 L 718.18 150.00" class="line"/>
+<circle cx="50.00" cy="65.91" r="4" fill="#3498db"/>
+<circle cx="81.82" cy="72.73" r="4" fill="#3498db"/>
+<circle cx="113.64" cy="59.09" r="4" fill="#3498db"/>
+<circle cx="145.45" cy="65.91" r="4" fill="#3498db"/>
+<circle cx="177.27" cy="72.73" r="4" fill="#3498db"/>
+<circle cx="209.09" cy="84.09" r="4" fill="#3498db"/>
+<circle cx="240.91" cy="61.36" r="4" fill="#3498db"/>
+<circle cx="272.73" cy="75.00" r="4" fill="#3498db"/>
+<circle cx="304.55" cy="90.91" r="4" fill="#3498db"/>
+<circle cx="336.36" cy="84.09" r="4" fill="#3498db"/>
+<circle cx="368.18" cy="75.00" r="4" fill="#3498db"/>
+<circle cx="400.00" cy="90.91" r="4" fill="#3498db"/>
+<circle cx="431.82" cy="90.91" r="4" fill="#3498db"/>
+<circle cx="463.64" cy="81.82" r="4" fill="#3498db"/>
+<circle cx="495.45" cy="61.36" r="4" fill="#3498db"/>
+<circle cx="527.27" cy="52.27" r="4" fill="#3498db"/>
+<circle cx="559.09" cy="52.27" r="4" fill="#3498db"/>
+<circle cx="590.91" cy="59.09" r="4" fill="#3498db"/>
+<circle cx="622.73" cy="59.09" r="4" fill="#3498db"/>
+<circle cx="654.55" cy="50.00" r="4" fill="#3498db"/>
+<circle cx="686.36" cy="150.00" r="4" fill="#3498db"/>
+<circle cx="718.18" cy="150.00" r="4" fill="#3498db"/>
+</svg>

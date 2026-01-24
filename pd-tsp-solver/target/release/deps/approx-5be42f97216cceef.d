@@ -1,0 +1,11 @@
+C:\Users\fredl\Documents\Cours\M2 AI2D\MAOA\Projet 2\pd-tsp-solver\target\release\deps\approx-5be42f97216cceef.d: C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\lib.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\abs_diff_eq.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\relative_eq.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\ulps_eq.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\macros.rs
+
+C:\Users\fredl\Documents\Cours\M2 AI2D\MAOA\Projet 2\pd-tsp-solver\target\release\deps\libapprox-5be42f97216cceef.rlib: C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\lib.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\abs_diff_eq.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\relative_eq.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\ulps_eq.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\macros.rs
+
+C:\Users\fredl\Documents\Cours\M2 AI2D\MAOA\Projet 2\pd-tsp-solver\target\release\deps\libapprox-5be42f97216cceef.rmeta: C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\lib.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\abs_diff_eq.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\relative_eq.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\ulps_eq.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\macros.rs
+
+C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\lib.rs:
+C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\abs_diff_eq.rs:
+C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\relative_eq.rs:
+C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\ulps_eq.rs:
+C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\approx-0.5.1\src\macros.rs:

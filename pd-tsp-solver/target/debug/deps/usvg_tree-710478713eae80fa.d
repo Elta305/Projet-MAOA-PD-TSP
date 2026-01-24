@@ -1,0 +1,10 @@
+C:\Users\fredl\Documents\Cours\M2 AI2D\MAOA\Projet 2\pd-tsp-solver\target\debug\deps\usvg_tree-710478713eae80fa.d: C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\usvg-tree-0.30.0\src\lib.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\usvg-tree-0.30.0\src\filter.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\usvg-tree-0.30.0\src\geom.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\usvg-tree-0.30.0\src\pathdata.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\usvg-tree-0.30.0\src\text.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\usvg-tree-0.30.0\src\utils.rs
+
+C:\Users\fredl\Documents\Cours\M2 AI2D\MAOA\Projet 2\pd-tsp-solver\target\debug\deps\libusvg_tree-710478713eae80fa.rmeta: C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\usvg-tree-0.30.0\src\lib.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\usvg-tree-0.30.0\src\filter.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\usvg-tree-0.30.0\src\geom.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\usvg-tree-0.30.0\src\pathdata.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\usvg-tree-0.30.0\src\text.rs C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\usvg-tree-0.30.0\src\utils.rs
+
+C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\usvg-tree-0.30.0\src\lib.rs:
+C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\usvg-tree-0.30.0\src\filter.rs:
+C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\usvg-tree-0.30.0\src\geom.rs:
+C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\usvg-tree-0.30.0\src\pathdata.rs:
+C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\usvg-tree-0.30.0\src\text.rs:
+C:\Users\fredl\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\usvg-tree-0.30.0\src\utils.rs:

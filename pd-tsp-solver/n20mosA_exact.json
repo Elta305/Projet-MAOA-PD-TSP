@@ -1,0 +1,32 @@
+{
+  "tour": [
+    0,
+    19,
+    8,
+    12,
+    3,
+    11,
+    10,
+    17,
+    9,
+    18,
+    14,
+    6,
+    15,
+    13,
+    4,
+    7,
+    2,
+    1,
+    5,
+    16,
+    0
+  ],
+  "cost": 3815.733642006207,
+  "total_profit": 1104,
+  "objective": -2711.733642006207,
+  "feasible": true,
+  "algorithm": "Gurobi-Exact",
+  "computation_time": 0.3199873,
+  "iterations": null
+}
